@@ -3,6 +3,7 @@ title: "React로 블로그 만들기"
 createdAt: "2025-03-19T12:34:56Z"
 pinned: true
 tags: ["react", "nextjs", "github-api"]
+author: tevem1207
 ---
 
 # React로 블로그 만들기 🚀
